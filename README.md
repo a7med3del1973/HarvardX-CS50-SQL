@@ -22,9 +22,3 @@ This repository contains my solutions to problem sets and my final project for *
 
 ## 🏆 Final Project Description
 *Include a brief description of your final project, e.g., a database-backed web application or a specific focus you had in your final project.*
-
-## 🚀 Getting Started
-To run or experiment with the provided solutions:
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
