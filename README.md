@@ -1,4 +1,4 @@
-# HarvardX CS50's Introduction to Databases with SQL - Solutions and Final Project
+# HarvardX Introduction to Databases with SQL - Solutions and Final Project
 
 This repository contains my solutions to problem sets and my final project for **HarvardX's CS50 course: Introduction to Databases with SQL**. The course offers a comprehensive dive into database concepts, SQL commands, and hands-on projects, providing foundational knowledge and skills for database management and querying.
 
