@@ -1,0 +1,2 @@
+select AVG(per_pupil_expenditure) As Average_District_Per_Pupil_Expenditure
+from expenditures;
